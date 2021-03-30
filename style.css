@@ -1,0 +1,78 @@
+body {
+font-family: 'Raleway';
+background-color:rgb(194, 204, 203);
+color: rgb(20, 42, 71);
+margin: 0px auto 0px auto;
+
+}
+
+header {
+font-size: 30px;
+color: whitesmoke;
+opacity: .8;
+text-align: center;
+margin: 0px;
+}
+
+nav {
+font-family: 'Raleway';
+font-weight: bolder;
+font-size: 18px;
+text-align: center;
+
+}
+
+blockquote {
+font-family: 'Homemade Apple', cursive;
+font-size: 20px;
+color: rgb(122, 99, 117);
+position: center;
+}
+
+a {
+    color: rgb(218, 18, 118);
+    font-weight: bold;
+
+}
+
+a:hover {
+    background-color: turquoise;
+}
+
+
+figcaption {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    opacity: .6;
+    font-weight: bold;
+}
+
+}
+footer {
+    font-size: smaller;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+
+.quote { 
+    background-color: ivory;
+    padding: 20px;
+    }
+
+main {
+    background-color: #ffffff12;
+    padding: 20px 20px 50px 20px;
+    border: 3px dotted #e4ece56e;
+    width: 60%;
+    margin: 0px auto;
+    font-size: 16px;
+    font-family: lato;
+    color:rgb (20 42 71 / 75%);
+    border-radius: 20px;
+        }
+}
